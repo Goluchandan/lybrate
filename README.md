@@ -10,7 +10,7 @@ This is a team project, built by us in the Construct Week - Unit 3 at Masai Scho
 
 - Here is the link of our website live on netlify: https://lybrate-clone.netlify.app/
 
-## Our Team Members ❤️
+## Our Team Members ❤️❤️
 
 - **[ Bhushan Wagh](https://github.com/Bhushan-Wagh98)**
 - **[Monika Sananse](https://github.com/monikasananse)**
